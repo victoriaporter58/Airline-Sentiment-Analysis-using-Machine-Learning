@@ -16,4 +16,4 @@ Insights:
 - What technical next steps would you suggest if this was to be continued?
 - What business next steps would you suggest based on current findings?
 
-By Victoria Porter, Will Holbrook, Laura Cope, Lauren Cooper and Joel Wolinsky
+Authors: Victoria Porter, Will Holbrook, Laura Cope, Lauren Cooper and Joel Wolinsky
