@@ -1,8 +1,6 @@
 # Airline-Sentiment-Analysis-using-Machine-Learning
 
-This project looks to identify what insights can be drawn from the public's sentiment towards 6 different US airlines.
-
-Tweets.zip contains the tweets used in this project.
+This project looks to identify what insights can be drawn from the public's sentiment towards 6 different US airlines. Tweets.zip contains the tweets used in this project.
 
 Modelling:
 - Do you notice anything about the data from exploratory analysis?
