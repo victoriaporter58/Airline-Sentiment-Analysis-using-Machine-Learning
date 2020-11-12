@@ -2,6 +2,8 @@
 
 This project looks to identify what insights can be drawn from the public's sentiment towards 6 different US airlines. Tweets.zip contains the tweets used in this project.
 
+Each of the techniques have been developed using Google Colaboratory therefore all required dependencies are included in the ipynb files.
+
 Modelling:
 - Do you notice anything about the data from exploratory analysis?
 - Can you form a ‘baseline to beat’ by training a simple, naive model to begin with?
